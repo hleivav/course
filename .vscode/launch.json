@@ -4,7 +4,13 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-    
+        {
+            "type": "java",
+            "name": "PersNumbers",
+            "request": "launch",
+            "mainClass": "PersNumbers",
+            "projectName": "course_2abc51e6"
+        },
         {
             "type": "java",
             "name": "Current File",
